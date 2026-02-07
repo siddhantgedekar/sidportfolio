@@ -1,4 +1,5 @@
 import { Github, Linkedin, Mail, Download } from 'lucide-react'
+import Song from "../assets/you're_dancing_with_nonexistant.mp3";
 
 export default function Hero() {
   return (
@@ -54,6 +55,12 @@ export default function Hero() {
         <div className="flex gap-4 justify-center text-sm text-muted-foreground">
           <span>📧 siddhantgedekar18@gmail.com</span>
           <span>📱 +91-8767508433</span>
+        </div>
+        <div className="song flex justify-center mt-6">
+          <audio className="mt-6" autoPlay loop controls>
+            <source src={Song} type="audio/mpeg" />
+            Your browser does not support the audio element.
+          </audio>
         </div>
       </div>
     </section>
