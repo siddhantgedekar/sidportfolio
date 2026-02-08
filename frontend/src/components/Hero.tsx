@@ -57,7 +57,7 @@ export default function Hero() {
           <span>📱 +91-8767508433</span>
         </div>
         <div className="song flex justify-center mt-6">
-          <audio className="mt-6" autoPlay loop controls>
+          <audio className="mt-6" autoPlay={true} loop={true} controls>
             <source src={Song} type="audio/mpeg" />
             Your browser does not support the audio element.
           </audio>
