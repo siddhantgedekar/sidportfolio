@@ -140,3 +140,10 @@ This portfolio is fully responsive and works on:
 ---
 
 Built with ❤️ by Siddhant Gedekar
+
+
+## Progress Update
+
+### Job Hunting
+- Day ?
+ - 5 Jobs applied + 3 Internships [wait]
