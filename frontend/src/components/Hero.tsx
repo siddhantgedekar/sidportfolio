@@ -36,7 +36,7 @@ export default function Hero() {
             LinkedIn
           </a>
           <a 
-            href="mailto:siddhantgedekar18@gmail.com"
+            href="mailto:siddhantgedekar.sits.comp@gmail.com"
             className="flex items-center gap-2 px-6 py-3 border border-border rounded-lg hover:bg-accent transition-colors"
           >
             <Mail size={20} />

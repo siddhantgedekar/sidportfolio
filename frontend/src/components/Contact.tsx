@@ -12,7 +12,7 @@ export default function Contact() {
 
         <div className="grid md:grid-cols-2 lg:grid-cols-4 gap-4 mb-12">
           <a 
-            href="mailto:siddhantgedekar18@gmail.com"
+            href="mailto:siddhantgedekar.sits.comp@gmail.com"
             className="p-6 bg-card border border-border rounded-lg hover:shadow-lg transition-all hover:scale-105"
           >
             <Mail className="mx-auto mb-3 text-primary" size={32} />
@@ -59,7 +59,7 @@ export default function Contact() {
           </p>
           <div className="flex flex-wrap gap-4 justify-center">
             <a 
-              href="mailto:siddhantgedekar18@gmail.com"
+              href="mailto:siddhantgedekar.sits.comp@gmail.com"
               className="flex items-center gap-2 px-8 py-3 bg-primary text-primary-foreground rounded-lg hover:bg-primary/90 transition-colors font-semibold"
             >
               <Send size={20} />
