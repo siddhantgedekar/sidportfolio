@@ -53,7 +53,7 @@ export default function Hero() {
         </div>
 
         <div className="flex gap-4 justify-center text-sm text-muted-foreground">
-          <span>📧 siddhantgedekar18@gmail.com</span>
+          <span>📧 siddhantgedekar.sits.comp@gmail.com</span>
           <span>📱 +91-8767508433</span>
         </div>
         <div className="song flex justify-center mt-6">
