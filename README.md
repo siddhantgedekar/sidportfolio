@@ -146,4 +146,4 @@ Built with ❤️ by Siddhant Gedekar
 
 ### Job Hunting
 - Day ?
- - 5 Jobs applied + 3 Internships [wait]
+ - 5 Jobs applied + 3 Internships
