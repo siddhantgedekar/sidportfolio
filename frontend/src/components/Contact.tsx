@@ -17,7 +17,7 @@ export default function Contact() {
           >
             <Mail className="mx-auto mb-3 text-primary" size={32} />
             <p className="font-semibold mb-1">Email</p>
-            <p className="text-sm text-muted-foreground break-all">siddhantgedekar18@gmail.com</p>
+            <p className="text-sm text-muted-foreground break-all">siddhantgedekar.sits.comp@gmail.com</p>
           </a>
 
           <a 
